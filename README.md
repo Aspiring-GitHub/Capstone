@@ -1,2 +1,2 @@
 # Capstone
-## Jupyter Notebooks to Support Coursera Data Science Final Project
+## Jupyter Notebooks in support of Coursera Data Science Final Project
